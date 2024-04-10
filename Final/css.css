@@ -1,0 +1,80 @@
+h1{ font-family:retro;
+    font-weight:bolder;
+    font-size: 65pt;
+    color:white;
+    
+ }
+ h2{font-family:retro;
+    font-weight:normal;
+    font-size: 45pt;
+color:white;}
+
+h3{font-family:retro;
+    font-weight:normal;
+    font-size: 46pt;
+color:rgb(49, 194, 87);
+}
+
+h4{font-family:retro;
+    letter-spacing: 2px;
+    line-height: 22px;
+    font-weight:lighter;
+    font-size: 8pt;
+color:rgb(49, 194, 87);}
+
+h5{font-family:retro;
+    font-weight:normal;
+    font-size: 20pt;
+color:white;}
+
+h6{font-family:retro;
+    font-weight:normal;
+    font-size: 22pt;
+color:white;} 
+
+h7{font-family:retro;
+    font-weight:bolder;
+    font-size: 16pt;
+color:rgb(49, 194, 87);
+text-decoration: underline;}
+
+h8{font-family:retro;
+line-height: 60px;
+    align-items: right;
+    font-weight:lighter;
+    font-size: 6pt;
+color:rgb(49, 194, 87);
+}
+
+h9{font-family:retro;
+        align-items: right;
+        font-weight:lighter;
+        font-size: 9pt;
+    color:rgb(255, 255, 255)
+    }
+
+
+    h10{font-family:retro;
+        line-height: 15px;
+        font-weight:normal;
+        font-size: 12pt;
+    color:rgb(0, 0, 0);} 
+
+.div1 {background-color: black;
+    fill-opacity: inherit 50%;
+
+
+}
+
+ 
+@font-face{
+font-family: retro;
+src:url(retro.ttf)
+
+   
+}
+
+
+
+
+
