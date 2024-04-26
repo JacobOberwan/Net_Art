@@ -1,0 +1,164 @@
+.grid1 {width:25%;
+background-color: black;
+height: 300px;}
+
+
+
+
+
+.divbound 
+{
+height:1024px;
+width:1024px;
+margin-left:auto;
+margin-right:auto;
+float:center;
+position: relative;
+
+
+}
+
+
+.Centeredbox
+{margin-top: 50%;
+margin-bottom: 50%;
+margin-left: 50%;
+margin-right: 50%;}
+
+.startmenu{
+    width: 400px;
+    height: 200px;
+    background-color: gray;
+    border: 9px;
+    border-color: brown;
+}
+
+.center {
+    border: 5px solid brown;
+    background-color: bisque;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 10px;
+    width:600px;
+    height: 400px;
+  }
+
+  .startbutton {
+    border: 2px solid brown;
+    background-color: rgb(255, 75, 75);
+    position: absolute;
+    top: 25%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 10px;
+    width:100px;
+    height: 50px;
+    text-align: center;
+    vertical-align: center;
+
+  }
+
+  p1{
+font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+color:white;
+font-size: 20pt;
+
+  }
+
+  p2{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:white;
+    font-size: 36pt;
+    
+      }
+
+
+
+
+
+
+
+
+  .center-image { 
+width:1024px;
+height:1024px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 10px;
+  
+} 
+
+
+.parent {
+  background-image: url(map.jpg);
+     background-repeat: no-repeat;
+     background-size: cover;
+     height: 100vh;
+     display: flex;
+     align-items: center;
+     justify-content: center;
+ }
+
+ 
+ .Selbut1{
+  background-color: rgb(190, 78, 78);
+border: 4px solid rgb(230, 220, 137);
+  height: 65px;
+  width: 120px;
+  text-align: center;
+  line-height: 65px;
+  opacity: 90%;
+  position: fixed;
+  bottom: 7%;
+  left:25%
+ }
+
+ .Selbut2{
+  background-color: rgb(190, 78, 78);
+border: 4px solid rgb(230, 220, 137);
+  height: 65px;
+  width: 120px;
+  text-align: center;
+  line-height: 65px;
+  opacity: 90%;
+  position: fixed;
+  bottom: 7%;
+left:50% ;
+ }
+
+ .Selbut3{
+  background-color: rgb(190, 78, 78);
+border: 4px solid rgb(230, 220, 137);
+  height: 65px;
+  width: 120px;
+  text-align: center;
+  line-height: 65px;
+  opacity: 90%;
+  position: fixed;
+  bottom: 7%;
+left:75% ;
+ }
+
+.TITLE{
+
+text-align: center;
+top:1%;
+
+
+}
+
+.TITLEB{
+
+  text-align: center;
+ BOTTOM:5%;
+  
+  
+  }
+  
+
+
+
+
